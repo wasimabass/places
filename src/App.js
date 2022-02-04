@@ -15,7 +15,8 @@ function App() {
   var catNav = {
     'x z' : 'Food' ,
     'two' : 'Restaurant' ,
-    'three' : "play"
+    'three' : "play",
+    'four' : "win"
   }
 
   return (
