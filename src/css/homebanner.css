@@ -1,0 +1,19 @@
+.homebanner {
+	background: #1d4353;
+	color: #fff;
+	padding: 25vh 15px;
+}
+
+.homebanner h1 {
+		font-family: 'Playfair Display', serif;
+}
+.homebanner .form__wraper {
+	color:#000;
+	max-width: 900px;
+	margin: 20px auto;
+}
+.homebanner .form-control { border:none;}
+.homebanner .col-md-3 { border-right:1px solid #d9d9d9;} 
+.homebanner .row > .col-md-3:nth-child(3) , 
+.homebanner .row > .col-md-3:last-child { border-right:none;} 
+
